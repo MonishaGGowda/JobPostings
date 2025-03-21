@@ -48,7 +48,11 @@ Enter Gmail App Password for @gmail.com:
 
 *(You won’t see the characters as you type — that’s expected and secure.)*
 
-**#Deactivate the environment**
+**Configure CHECK_INTERVAL to suit your needs**
+---
+CHECK_INTERVAL in line 25 linkedin_alert.py file:
+
+**Deactivate the environment**
 ---
 deactivate
 
